@@ -36,21 +36,6 @@ This repository focuses on:
 
 ## 🧮 Mathematical Model
 
-### Hyperchaotic system
-
-[
-\dot{x} = z + (y - a)x + u
-]
-[
-\dot{y} = 1 - by - x^2
-]
-[
-\dot{z} = -x - cz
-]
-[
-\dot{u} = -dxy - ku
-]
-
 This system exhibits **hyperchaos** when multiple Lyapunov exponents are positive.
 
 ---
